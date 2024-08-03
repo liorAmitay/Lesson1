@@ -5,6 +5,8 @@ styles[((styles.length - 1)/ 2)] = "Classics";
 alert(styles.shift());
 styles.unshift("Rap", "Reggae");
 */
+
+
 let arr = [];
 let input = prompt("insert a number, for exit press cancel or none numric value")
 
