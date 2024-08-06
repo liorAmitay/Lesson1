@@ -21,7 +21,7 @@ for (const iterator of arr) {
   sum += Number(iterator);
 }
 
-console.log(sum);
+console.log(sum++);
 /*
 let obj = { name: "lior", age: 32, o: { prop: 55 } };
 let obj2 = {};
